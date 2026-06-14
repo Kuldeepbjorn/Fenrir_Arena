@@ -1,0 +1,65 @@
+Scope of Work - Fenrir Arena Online Gaming Website
+===================================================
+
+The scope of work encompasses designing and developing the following:
+
+1. Home/Landing Page
+   - Hero section with featured game carousel
+   - Trending games grid (6 games with thumbnail, title, rating)
+   - Category showcase row (Action, Puzzle, Strategy, Sports, Arcade)
+   - Platform statistics bar (total players, games, daily active users)
+   - Call-to-action for sign-up / play now
+   - Footer with links, social media, and support
+
+2. User Authentication & Profile System
+   - Registration form (username, email, password, date of birth)
+   - Login with remember-me functionality
+   - Password reset flow
+   - Player profile page (avatar, bio, stats, game history)
+   - Account settings (change password, notification preferences)
+
+3. Game Library Page
+   - Grid layout of all available games with thumbnail cards
+   - Search bar with autocomplete suggestions
+   - Filter by category, popularity, release date, rating
+   - Game card component (thumbnail, title, category, rating, play button)
+   - Individual game detail page (description, instructions, ratings, comments)
+   - Sort options: Newest, Most Popular, Top Rated, A-Z
+
+4. Leaderboard System
+   - Global leaderboard with player ranking, username, level, and score
+   - Friends-only leaderboard toggle
+   - Per-game leaderboard with game-specific scoring
+   - Weekly, monthly, and all-time leaderboard tabs
+   - Highlighted top 3 players with trophy icons
+   - Current player's rank highlighted with their position
+
+5. Multiplayer Lobby
+   - Online friends list with status indicators (online/offline/in-game)
+   - Friend request system (send, accept, decline)
+   - Matchmaking queue with estimated wait time
+   - Challenge system: send and receive game invitations
+   - Chat window for communication with friends
+   - Real-time game session status updates
+
+6. Achievement & Rewards System
+   - Achievement badges display (earned and locked states)
+   - Experience points progress bar with level indicator
+   - Trophy cabinet showcasing rare achievements
+   - Daily login rewards calendar
+   - Achievement notification pop-up on unlock
+   - Reward claim interface with visual feedback
+
+7. Admin Dashboard
+   - Game management panel (add, edit, remove games)
+   - User moderation tools (ban, warn, view reports)
+   - Platform analytics (user growth, game popularity, revenue)
+   - Content management for banners and announcements
+   - Report management interface
+
+8. Delivery Package
+   - 01_Screen_Mockups/ - All screen PNGs at 1440x900
+   - 02_UI_Components/ - Component library documentation
+   - 03_Documentation/ - PRD and supporting documents
+   - 04_Assets/ - Icons, illustrations, and images
+   - 05_Final_Delivery/ - Complete ZIP package

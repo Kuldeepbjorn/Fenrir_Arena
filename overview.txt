@@ -1,0 +1,20 @@
+Fenrir Arena - Online Gaming Platform
+======================================
+
+Project: Fenrir Arena
+Company: Fenrir Gaming Technologies
+Platform: arena.fenrir.io
+
+Fenrir Arena is an online gaming website designed to provide users with a unified platform to discover, play, and compete in browser-based games. The platform enables players to create profiles, track achievements, compete on leaderboards, and challenge friends in real-time multiplayer matches.
+
+Key Modules:
+- Home/Landing Page: Featured games, trending categories, and platform highlights
+- User Profile & Authentication: Account creation, login, player stats, and game history
+- Game Library: Categorized collection of playable browser games with search and filter
+- Leaderboard System: Global and friends-only rankings across all games
+- Multiplayer Lobby: Real-time matchmaking and friend challenges
+- Achievement & Rewards System: Badges, trophies, and experience points
+- Admin Dashboard: Game management, user moderation, and analytics
+
+Target Audience: Casual and competitive gamers aged 13-35
+Platform Type: Responsive web application (desktop-first with mobile support)

@@ -1,0 +1,33 @@
+Fenrir Arena - Online Gaming Website Evaluation Rubrics (30)
+=============================================================
+
+1. The project name reads exactly "Fenrir Arena" on every submitted document and screen mockup.
+2. The company name reads exactly "Fenrir Gaming Technologies" on every submitted document and screen mockup.
+3. The landing page mockup uses Midnight Blue #0F172A as the primary background color.
+4. The landing page mockup uses Neon Cyan #06F7D4 for interactive elements and accents.
+5. The landing page mockup uses Electric Orange #FF6B35 for call-to-action buttons.
+6. The landing page mockup contains a top navigation bar with logo, navigation links, and sign-in button.
+7. The landing page mockup contains a hero section with a featured game title, description, and "Play Now" button.
+8. The landing page mockup contains a trending games section displaying at least four game cards.
+9. The landing page mockup contains a game categories section with at least five genre icon cards.
+10. The landing page mockup contains a platform statistics bar showing player count, games count, and active users.
+11. The landing page mockup contains a call-to-action section with a "Join Free" or similar registration button.
+12. The game library mockup contains a search bar for filtering games by keyword.
+13. The game library mockup contains filter chips or dropdowns for game categories.
+14. The game library mockup displays game cards in a grid layout with thumbnail, title, and rating.
+15. The game library mockup contains a sort option with at least three sorting criteria.
+16. The leaderboard mockup displays player rankings with rank number, avatar, username, and score.
+17. The leaderboard mockup highlights the top 3 players with distinct styling (gold, silver, bronze).
+18. The leaderboard mockup contains toggle or tabs for switching between Global and Friends leaderboards.
+19. The leaderboard mockup contains time-period filter tabs (Weekly, Monthly, All-Time).
+20. The multiplayer lobby mockup contains a friends list with online status indicators.
+21. The multiplayer lobby mockup contains a matchmaking section with game selection and "Find Match" button.
+22. The multiplayer lobby mockup contains a challenge system interface for inviting friends.
+23. The multiplayer lobby mockup contains a chat panel for messaging online friends.
+24. The achievement system mockup displays achievement badges in a grid with locked and unlocked states.
+25. The achievement system mockup contains an experience points progress bar with level indicator.
+26. The admin dashboard mockup contains a game management table with add/edit/delete functionality.
+27. The admin dashboard mockup contains a user moderation panel with search and action options.
+28. The admin dashboard mockup contains analytics charts or graphs for platform data.
+29. Every submitted screen mockup has a resolution of 1440 x 900 pixels.
+30. No submitted document or screen mockup contains a hyperlink, URL, or web address unrelated to the project.
